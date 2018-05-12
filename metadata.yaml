@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   illustrator:
     agent_name: Crawford, Will
-    birthdate: &id001 1869
+    birthdate: 1869
     deathdate: 1944
     gutenberg_agent_id: '33839'
     url: http://www.gutenberg.org/2009/agents/33839
@@ -13,12 +13,14 @@ covers:
 creator:
   author:
     agent_name: Butler, Ellis Parker
-    birthdate: *id001
+    birthdate: 1869
     deathdate: 1937
     gutenberg_agent_id: '585'
     url: http://www.gutenberg.org/2009/agents/585
     wikipedia: http://en.wikipedia.org/wiki/Ellis_Parker_Butler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44147#The-Great-American-Pie-Company
 gutenberg_issued: '2013-11-10'
 gutenberg_type: Text
 identifiers:
